@@ -10,3 +10,7 @@ npm i @types/styled-components -D
 
 
 npm install firebase
+
+
+
+delete하는거 보묘ㅕㄴ 됨
